@@ -1,0 +1,18 @@
+ECHO is on.
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment-specific variables
+.env
+
+# Ignore IDE or editor specific files
+.vscode/
+.idea/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
